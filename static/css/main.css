@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+table{
+    border: 1px solid #0c2457;
+}
+
+th{
+    border: 1px solid #000000;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    text-align: center;
+    padding: 5px;
+}
+
+.form{
+    margin-top: 20px;
+
+}
+
+#content{
+    width: 30%;
+}
